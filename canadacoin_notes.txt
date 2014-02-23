@@ -1,0 +1,7 @@
+canadacoin notes
+
+rpcport = 59595
+p2p port = 59596
+testnet = 59599
+
+1000000 coins per block
